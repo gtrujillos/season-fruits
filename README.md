@@ -30,10 +30,15 @@ Season Fruits is a web application that allows users to explore various seasonal
     yarn install
     ```
 
-### Building and Running the Application
+### Building the Application
 To run the application locally:
 ```sh
 yarn build
+```
+
+### Running the Application
+To run the application locally:
+```sh
 yarn start
 ```
 This will start the development server and open the application in your default web browser.
