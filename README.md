@@ -31,7 +31,7 @@ Season Fruits is a web application that allows users to explore various seasonal
     ```
 
 ### Building the Application
-To run the application locally:
+To build the application locally:
 ```sh
 yarn build
 ```
