@@ -44,6 +44,9 @@ yarn start
 This will start the development server and open the application in your default web browser.
 
 ## Usage
+
+Open http://localhost:5001/
+
 1. On loading the application, the list of fruits will be displayed.
 2. Use the filter dropdown to filter fruits by family, order, or genus.
 3. Use the search input to search for specific fruits.
